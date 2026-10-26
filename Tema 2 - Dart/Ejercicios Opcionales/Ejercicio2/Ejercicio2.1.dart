@@ -1,0 +1,3 @@
+void main() {
+  // Una variable sirve para guardar datos en un programa que podrá usar mas tarde para modificarlo, imprimirlo...
+}
